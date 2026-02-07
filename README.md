@@ -31,6 +31,9 @@ tenho 16 anos. Iniciei há pouquissimo tempo no curso de **Desenvolvimento de Si
 * Tenho minha fé em Deus, aos sábados e domingos sempre procuro ir pra igreja.
 
 ### 🛠️ Tecnologias e Ferramentas:
+### 🛠️ Minhas Ferramentas e Status:
+![Estudante](https://img.shields.io/badge/Status-Estudante%20de%20TI-blue?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Desenvolvimento de Sistemas](https://img.shields.io/badge/Curso-Dev%20de%20Sistemas-green?style=for-the-badge&logo=codeforces&logoColor=white)
+![Brasil](https://img.shields.io/badge/Local-Brasil-yellow?style=for-the-badge&logo=openstreetmap&logoColor=black)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
