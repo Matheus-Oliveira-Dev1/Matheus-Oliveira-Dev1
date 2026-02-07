@@ -30,10 +30,12 @@ tenho 16 anos. Iniciei há pouquissimo tempo no curso de **Desenvolvimento de Si
 
 * Tenho minha fé em Deus, aos sábados e domingos sempre procuro ir pra igreja.
 
-### Este perfil foi instruido pela gemini! Mostrei ideiais e ela me ajudou a planejar.
+###*Este perfil foi instruido pela gemini! Mostrei ideiais e ela me ajudou a planejar.*
 
 ## 📂 Meu primeiro mini projeto
 * 🏥 **[Sistema de Agendamento (Clínica Médica)](https://github.com/Matheus-Oliveira-Dev1/sistema-agendamento-requisitos)**: Meu primeiro planejamento de requisitos, focando na organização e lógica do sistema.
+
+
 
 ### 🛠️ Minhas Ferramentas e Status:
 ![Estudante](https://img.shields.io/badge/Status-Estudante%20de%20TI-blue?style=for-the-badge&logo=googlescholar&logoColor=white)
