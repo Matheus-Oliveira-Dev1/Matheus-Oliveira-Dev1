@@ -1,4 +1,4 @@
-## Olá, sou o Matheus
+# Olá, sou o Matheus
 
 tenho 16 anos. Iniciei há pouquissimo tempo no curso de **Desenvolvimento de Sistemas ( Ensino Médio Integrado com Técnico )**
 
@@ -16,7 +16,7 @@ tenho 16 anos. Iniciei há pouquissimo tempo no curso de **Desenvolvimento de Si
 
 *  Sei ouvir, às vezes tenho dificuldade de expressar minhas ideias, preciso de calma e construir o pensamento por partes
 
- ## 💪 Meu Estilo e Rotina
+ ### 💪 Meu Estilo e Rotina
 
 *  Não sou expert em nada, mas eu me esforço sempre, sempre faço um equilíbrio sobre esforçar e descansar.
 
@@ -24,7 +24,7 @@ tenho 16 anos. Iniciei há pouquissimo tempo no curso de **Desenvolvimento de Si
 
 *  Durante a semana eu estudo em período integral, e logo estarei trabalhando e fazendo curso pela empresa, em resumo minha semana é bem corrida, e aos sábados faço curso.
 
- ## ✨ O que é importante para mim
+ #### ✨ O que é importante para mim
 
 *  Mas importante explicar, meus finais de semanas é ir pra igreja, e aproveitar o tempo com quem eu amo.
 
